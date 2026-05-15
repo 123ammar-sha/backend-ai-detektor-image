@@ -1,0 +1,6 @@
+dataset_raw/
+dataset_noise/
+venv/
+__pycache__/
+temp_*
+noise_*
